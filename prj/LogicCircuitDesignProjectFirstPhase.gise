@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="../LogicCircuitDesignProjectFirstPhase.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Comparator8Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Comparator8Bit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="EightBitAdder_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="EightBitAdder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="EightBitAdder_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="EightBitAdder_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="HealthcareSystemFirstPhase.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="HealthcareSystemFirstPhase.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="HealthcareSystemFirstPhase.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="HealthcareSystemFirstPhase.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="HealthcareSystemFirstPhase.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="HealthcareSystemFirstPhase.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="HealthcareSystemFirstPhase.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="HealthcareSystemFirstPhase.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="HealthcareSystemFirstPhase.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="HealthcareSystemFirstPhase_envsettings.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="HealthcareSystemFirstPhase_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="HealthcareSystemFirstPhase_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="HealthcareSystemFirstPhase_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator3bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator3bit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testParityErrorCheckerUnit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testParityErrorCheckerUnit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1576423176" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1576423176">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613982" xil_pn:in_ck="8368374210098584142" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1576613982">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../FourBitAdder.v"/>
+      <outfile xil_pn:name="../FourBitMultiplier.v"/>
+      <outfile xil_pn:name="../comparator3bit.v"/>
+      <outfile xil_pn:name="../oneBitFullAdder.v"/>
+      <outfile xil_pn:name="../src/BloodAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/BloodPHAnalyzer.v"/>
+      <outfile xil_pn:name="../src/BloodTypeClassification.v"/>
+      <outfile xil_pn:name="../src/Comparator8Bit.v"/>
+      <outfile xil_pn:name="../src/FallingDetector.v"/>
+      <outfile xil_pn:name="../src/GlycemicIndexCalculator.v"/>
+      <outfile xil_pn:name="../src/HealthcareSystemFirstPhase.v"/>
+      <outfile xil_pn:name="../src/HealthcareSystemFirstPhaseTestbench.v"/>
+      <outfile xil_pn:name="../src/ParityErrorChecker.v"/>
+      <outfile xil_pn:name="../src/PressureAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/PressureAnalyzer.v"/>
+      <outfile xil_pn:name="../src/TemperatureAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/TemperatureAnalyzer.v"/>
+      <outfile xil_pn:name="../src/TemperatureCalculator.v"/>
+      <outfile xil_pn:name="../testParityErrorCheckerUnit.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613987" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-8946983486306699171" xil_pn:start_ts="1576613987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613987" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3899009595300724459" xil_pn:start_ts="1576613987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576423274" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="474826955880188179" xil_pn:start_ts="1576423274">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613987" xil_pn:in_ck="8368374210098584142" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1576613987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../FourBitAdder.v"/>
+      <outfile xil_pn:name="../FourBitMultiplier.v"/>
+      <outfile xil_pn:name="../comparator3bit.v"/>
+      <outfile xil_pn:name="../oneBitFullAdder.v"/>
+      <outfile xil_pn:name="../src/BloodAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/BloodPHAnalyzer.v"/>
+      <outfile xil_pn:name="../src/BloodTypeClassification.v"/>
+      <outfile xil_pn:name="../src/Comparator8Bit.v"/>
+      <outfile xil_pn:name="../src/FallingDetector.v"/>
+      <outfile xil_pn:name="../src/GlycemicIndexCalculator.v"/>
+      <outfile xil_pn:name="../src/HealthcareSystemFirstPhase.v"/>
+      <outfile xil_pn:name="../src/HealthcareSystemFirstPhaseTestbench.v"/>
+      <outfile xil_pn:name="../src/ParityErrorChecker.v"/>
+      <outfile xil_pn:name="../src/PressureAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/PressureAnalyzer.v"/>
+      <outfile xil_pn:name="../src/TemperatureAbnormalityDetector.v"/>
+      <outfile xil_pn:name="../src/TemperatureAnalyzer.v"/>
+      <outfile xil_pn:name="../src/TemperatureCalculator.v"/>
+      <outfile xil_pn:name="../testParityErrorCheckerUnit.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613989" xil_pn:in_ck="8368374210098584142" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5114436481655363456" xil_pn:start_ts="1576613987">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="EightBitAdder_beh.prj"/>
+      <outfile xil_pn:name="EightBitAdder_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1576613989" xil_pn:in_ck="7103485891988897961" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4764109634319926509" xil_pn:start_ts="1576613989">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="EightBitAdder_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3089735426695291724" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="474826955880188179" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-6544937826282880772" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-6388418249795389316" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422525" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-3739637265457985955" xil_pn:start_ts="1576422525">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422806" xil_pn:in_ck="5183354681580045149" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="8253484054301598929" xil_pn:start_ts="1576422799">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.lso"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.ngc"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.ngr"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.prj"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.stx"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.syr"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.xst"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1576422529" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="9104389386762980785" xil_pn:start_ts="1576422529">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1576423507" xil_pn:in_ck="1165413004318105776" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-3745903556772852709" xil_pn:start_ts="1576423502">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase.bld"/>
+      <outfile xil_pn:name="HealthcareSystemFirstPhase_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

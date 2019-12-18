@@ -1,0 +1,27 @@
+ISim log file
+Running: D:\Bahar\Book amirkabir\logic\HW\firstphaze\prj\EightBitAdder_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/EightBitAdder_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance EightBitAdder/g0/, width 1 of formal port cin is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /EightBitAdder/A 00000000 -radix bin
+# isim force add /EightBitAdder/A 00100100 -radix bin
+# run 1.00us
+# isim force add /EightBitAdder/B 00000000 -radix bin
+# run 1.00us
+# run all
+# run all
+# isim force add /EightBitAdder/A 01001100 -radix bin
+# isim force add /EightBitAdder/A 01000000 -radix bin
+# run 1.00us
+# isim force add /EightBitAdder/B 01000000 -radix bin
+# run 1.00us
+# run all
+# run 1.00us
+# isim force add /EightBitAdder/B[6] 1 -radix bin
+# run 1.00us

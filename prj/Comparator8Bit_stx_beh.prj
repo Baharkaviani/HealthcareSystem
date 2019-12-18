@@ -1,0 +1,3 @@
+verilog isim_temp "../comparator3bit.v"
+verilog isim_temp "../src/Comparator8Bit.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

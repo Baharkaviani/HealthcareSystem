@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.xst" -ofn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.syr" 
+xst -intstyle ise -ifn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.xst" -ofn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+xst -intstyle ise -ifn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.xst" -ofn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+xst -intstyle ise -ifn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.xst" -ofn "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 "HealthcareSystemFirstPhase.ngc" HealthcareSystemFirstPhase.ngd  
