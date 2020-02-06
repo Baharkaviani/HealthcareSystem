@@ -1,27 +1,66 @@
-Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/TemperatureCalculator_isim_beh.exe -prj D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/TemperatureCalculator_beh.prj work.TemperatureCalculator work.glbl 
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/LogicHealthcareSystemTestBench_isim_beh.exe -prj D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/LogicHealthcareSystemTestBench_beh.prj work.LogicHealthcareSystemTestBench work.glbl 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 8
 Turning on mult-threading, number of parallel sub-compilation jobs: 16 
 Determining compilation order of HDL files
-Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../oneBitFullAdder.v" into library work
-Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../FourBitAdder.v" into library work
-Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../FourBitMultiplier.v" into library work
-Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../EightBitAdder.v" into library work
-Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../src/TemperatureCalculator.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/oneBitFullAdder.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/FourBitAdder.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/FourBitMultiplier.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/EightBitAdder.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/comparator3bit.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/TemperatureCalculator.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/TemperatureAnalyzer.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/PressureAnalyzer.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/ParityErrorChecker.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/Comparator8Bit.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/BloodTypeClassification.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/BloodPHAnalyzer.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/TemperatureAbnormalityDetector.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/Register7Bit.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/PressureAbnormalityDetector.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/InformationController.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/FallingDetector.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/BloodAbnormalityDetector.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/NervousShockDetector.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/LogicHealthcareSystemController.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/HealthcareSystemFirstPhase.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/ConfigurationUnit.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/LogicHealthcareSystem.v" into library work
+Analyzing Verilog file "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/benchs/LogicHealthcareSystemTestBench.v" into library work
 Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
-WARNING:HDLCompiler:189 - "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../FourBitAdder.v" Line 29: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 32-bit.
-WARNING:HDLCompiler:189 - "D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/../EightBitAdder.v" Line 28: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/Comparator8Bit.v" Line 31: Size mismatch in connection of port <A2>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/FourBitAdder.v" Line 29: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/../src/rtl/modules/EightBitAdder.v" Line 28: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 32-bit.
 Completed static elaboration
+Compiling module ParityErrorChecker
+Compiling module PressureAnalyzer
+Compiling module PressureAbnormalityDetector
+Compiling module BloodPHAnalyzer
+Compiling module BloodTypeClassification
+Compiling module BloodAbnormalityDetector
+Compiling module comparator3bit
+Compiling module Comparator8Bit
+Compiling module FallingDetector
 Compiling module oneBitFullAdder
 Compiling module FourBitAdder
 Compiling module FourBitMultiplier
 Compiling module EightBitAdder
 Compiling module TemperatureCalculator
+Compiling module TemperatureAnalyzer
+Compiling module TemperatureAbnormalityDetector
+Compiling module HealthcareSystemFirstPhase
+Compiling module NervousShockDetector
+Compiling module Register7Bit
+Compiling module InformationController
+Compiling module ConfigurationUnit
+Compiling module LogicHealthcareSystemController
+Compiling module LogicHealthcareSystem
+Compiling module LogicHealthcareSystemTestBench
 Compiling module glbl
 Time Resolution for simulation is 1ps.
-Waiting for 1 sub-compilation(s) to finish...
-Compiled 6 Verilog Units
-Built simulation executable D:/Bahar/Book amirkabir/logic/HW/firstphaze/prj/TemperatureCalculator_isim_beh.exe
-Fuse Memory Usage: 28052 KB
-Fuse CPU Usage: 577 ms
+Waiting for 10 sub-compilation(s) to finish...
+Compiled 25 Verilog Units
+Built simulation executable D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/LogicHealthcareSystemTestBench_isim_beh.exe
+Fuse Memory Usage: 28896 KB
+Fuse CPU Usage: 671 ms

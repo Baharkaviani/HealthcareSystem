@@ -8,64 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/BloodAbnormalityDetector.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/BloodPHAnalyzer.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/BloodTypeClassification.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/Comparator8Bit.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/EightBitAdder.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/EightBitMux.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/FallingDetector.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/FourBitAdder.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/FourBitMultiplier.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/GlycemicIndexCalculator.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/HealthcareSystemFirstPhase.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/Mux2to1.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/ParityErrorChecker.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/PressureAbnormalityDetector.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/PressureAnalyzer.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/TemperatureAbnormalityDetector.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/TemperatureAnalyzer.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/TemperatureCalculator.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/comparator3bit.v&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/firstphaze/src/oneBitFullAdder.v&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Bahar/Book amirkabir/logic/HW/finalProject/src/rtl/modules/InformationController.v&quot; into library work</arg>
 </msg>
 
 </messages>

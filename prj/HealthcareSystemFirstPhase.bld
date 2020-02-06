@@ -6,7 +6,7 @@ Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
 HealthcareSystemFirstPhase.ngc HealthcareSystemFirstPhase.ngd
 
 Reading NGO file "D:/Bahar/Book
-amirkabir/logic/HW/firstphaze/prj/HealthcareSystemFirstPhase.ngc" ...
+amirkabir/logic/HW/finalProject/prj/HealthcareSystemFirstPhase.ngc" ...
 Gathering constraint information from source properties...
 Done.
 
@@ -15,22 +15,12 @@ Checking Constraint Associations...
 Done...
 
 Checking expanded design ...
-ERROR:NgdBuild:604 - logical block 'FallingDetectorUnit' with type
-   'FallingDetector' could not be resolved. A pin name misspelling can cause
+ERROR:NgdBuild:604 - logical block
+   'TemperatureAbnormalityDetectorUnit/TemperatureAnalyzerUnit' with type
+   'TemperatureAnalyzer' could not be resolved. A pin name misspelling can cause
    this, a missing edif or ngc file, case mismatch between the block name and
    the edif or ngc file name, or the misspelling of a type name. Symbol
-   'FallingDetector' is not supported in target 'spartan3'.
-ERROR:NgdBuild:604 - logical block 'TemperatureAbnormalityDetectorUnit' with
-   type 'TemperatureAbnormalityDetector' could not be resolved. A pin name
-   misspelling can cause this, a missing edif or ngc file, case mismatch between
-   the block name and the edif or ngc file name, or the misspelling of a type
-   name. Symbol 'TemperatureAbnormalityDetector' is not supported in target
-   'spartan3'.
-ERROR:NgdBuild:604 - logical block 'GlycemicIndexCalculator' with type
-   'GlycemicIndexCalculator' could not be resolved. A pin name misspelling can
-   cause this, a missing edif or ngc file, case mismatch between the block name
-   and the edif or ngc file name, or the misspelling of a type name. Symbol
-   'GlycemicIndexCalculator' is not supported in target 'spartan3'.
+   'TemperatureAnalyzer' is not supported in target 'spartan3'.
 
 Partition Implementation Status
 -------------------------------
@@ -40,12 +30,12 @@ Partition Implementation Status
 -------------------------------
 
 NGDBUILD Design Results Summary:
-  Number of errors:     3
+  Number of errors:     1
   Number of warnings:   0
 
-Total memory usage is 4405500 kilobytes
+Total memory usage is 4405508 kilobytes
 
-Total REAL time to NGDBUILD completion:  2 sec
+Total REAL time to NGDBUILD completion:  3 sec
 Total CPU time to NGDBUILD completion:   2 sec
 
 One or more errors were found during NGDBUILD.  No NGD file will be written.

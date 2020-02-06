@@ -1,0 +1,10 @@
+V3 7
+FL "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" 2020/01/27.06:00:54 P.20131013
+EN work/BoardLogicHealthcareSystem 1580122024 \
+      FL "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/BoardLogicHealthcareSystem/Behavioral 1580122025 \
+      FL "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" \
+      EN work/BoardLogicHealthcareSystem 1580122024 CP HealthcareSystemFirstPhase \
+      CP NervousShockDetector CP ConfigurationUnit \
+      CP LogicHealthcareSystemController

@@ -1,13 +1,24 @@
-MO FallingDetector NULL ../src/FallingDetector.v vlg03/_falling_detector.bin 1576422801
-MO Comparator8Bit NULL ../src/Comparator8Bit.v vlg57/_comparator8_bit.bin 1576422748
-MO PressureAbnormalityDetector NULL ../src/PressureAbnormalityDetector.v vlg41/_pressure_abnormality_detector.bin 1576422801
-MO BloodAbnormalityDetector NULL ../src/BloodAbnormalityDetector.v vlg08/_blood_abnormality_detector.bin 1576422801
-MO BloodTypeClassification NULL ../src/BloodTypeClassification.v vlg76/_blood_type_classification.bin 1576422801
-MO GlycemicIndexCalculator NULL ../src/GlycemicIndexCalculator.v vlg67/_glycemic_index_calculator.bin 1576422801
-MO TemperatureAnalyzer NULL ../src/TemperatureAnalyzer.v vlg68/_temperature_analyzer.bin 1576422554
-MO ParityErrorChecker NULL ../src/ParityErrorChecker.v vlg0C/_parity_error_checker.bin 1576422801
-MO TemperatureAbnormalityDetector NULL ../src/TemperatureAbnormalityDetector.v vlg3E/_temperature_abnormality_detector.bin 1576422801
-MO TemperatureCalculator NULL ../src/TemperatureCalculator.v vlg7C/_temperature_calculator.bin 1576422554
-MO PressureAnalyzer NULL ../src/PressureAnalyzer.v vlg47/_pressure_analyzer.bin 1576422801
-MO BloodPHAnalyzer NULL ../src/BloodPHAnalyzer.v vlg72/_blood_p_h_analyzer.bin 1576422801
-MO HealthcareSystemFirstPhase NULL ../src/HealthcareSystemFirstPhase.v vlg07/_healthcare_system_first_phase.bin 1576422801
+MO EightBitAdder NULL ../src/rtl/modules/EightBitAdder.v vlg28/_eight_bit_adder.bin 1580122024
+MO FallingDetector NULL ../src/rtl/modules/FallingDetector.v vlg03/_falling_detector.bin 1580122024
+MO comparator3bit NULL ../src/rtl/modules/comparator3bit.v vlg26/comparator3bit.bin 1580122024
+MO Comparator8Bit NULL ../src/rtl/modules/Comparator8Bit.v vlg57/_comparator8_bit.bin 1580122024
+MO PressureAbnormalityDetector NULL ../src/rtl/modules/PressureAbnormalityDetector.v vlg41/_pressure_abnormality_detector.bin 1580122024
+MO LogicHealthcareSystemController NULL ../src/rtl/modules/LogicHealthcareSystemController.v vlg54/_logic_healthcare_system_controller.bin 1580122024
+MO FourBitAdder NULL ../src/rtl/modules/FourBitAdder.v vlg43/_four_bit_adder.bin 1580122024
+MO BloodAbnormalityDetector NULL ../src/rtl/modules/BloodAbnormalityDetector.v vlg08/_blood_abnormality_detector.bin 1580122024
+MO BloodTypeClassification NULL ../src/rtl/modules/BloodTypeClassification.v vlg76/_blood_type_classification.bin 1580122024
+MO TemperatureAnalyzer NULL ../src/rtl/modules/TemperatureAnalyzer.v vlg68/_temperature_analyzer.bin 1580122024
+MO ConfigurationUnit NULL ../src/rtl/modules/ConfigurationUnit.v vlg2C/_configuration_unit.bin 1580122024
+MO ParityErrorChecker NULL ../src/rtl/modules/ParityErrorChecker.v vlg0C/_parity_error_checker.bin 1580122024
+MO oneBitFullAdder NULL ../src/rtl/modules/oneBitFullAdder.v vlg54/one_bit_full_adder.bin 1580122024
+MO TemperatureAbnormalityDetector NULL ../src/rtl/modules/TemperatureAbnormalityDetector.v vlg3E/_temperature_abnormality_detector.bin 1580122024
+MO Register7Bit NULL ../src/rtl/modules/Register7Bit.v vlg47/_register7_bit.bin 1580122024
+MO TemperatureCalculator NULL ../src/rtl/modules/TemperatureCalculator.v vlg7C/_temperature_calculator.bin 1580122024
+MO FourBitMultiplier NULL ../src/rtl/modules/FourBitMultiplier.v vlg76/_four_bit_multiplier.bin 1580122024
+MO PressureAnalyzer NULL ../src/rtl/modules/PressureAnalyzer.v vlg47/_pressure_analyzer.bin 1580122024
+MO BloodPHAnalyzer NULL ../src/rtl/modules/BloodPHAnalyzer.v vlg72/_blood_p_h_analyzer.bin 1580122024
+MO HealthcareSystemFirstPhase NULL ../src/rtl/modules/HealthcareSystemFirstPhase.v vlg07/_healthcare_system_first_phase.bin 1580122024
+AR boardlogichealthcaresystem behavioral "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" sub00/vhpl01 1580122025
+EN boardlogichealthcaresystem NULL "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" sub00/vhpl00 1580122024
+MO InformationController NULL ../src/rtl/modules/InformationController.v vlg16/_information_controller.bin 1580122024
+MO NervousShockDetector NULL ../src/rtl/modules/NervousShockDetector.v vlg70/_nervous_shock_detector.bin 1580122024

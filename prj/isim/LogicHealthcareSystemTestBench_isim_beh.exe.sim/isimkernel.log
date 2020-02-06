@@ -1,0 +1,28 @@
+Command line:
+   LogicHealthcareSystemTestBench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52496
+
+Mon Jan 27 14:10:26 2020
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5164.11 Meg
+
+ Total Signals          : 435
+ Total Nets             : 549
+ Total Signal Drivers   : 255
+ Total Blocks           : 51
+ Total Primitive Blocks : 34
+ Total Processes        : 266
+ Total Traceable Variables  : 74
+ Total Scalar Nets and Variables : 865
+
+ Total Simulation Time: 0.375 sec
+
+ Current Memory Usage: 5006.83 Meg
+
+Mon Jan 27 14:13:28 2020
+

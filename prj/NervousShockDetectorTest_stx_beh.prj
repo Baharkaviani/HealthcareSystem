@@ -1,0 +1,3 @@
+verilog isim_temp "../src/rtl/modules/NervousShockDetector.v"
+verilog isim_temp "../src/rtl/benchs/NervousShockDetectorTest.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

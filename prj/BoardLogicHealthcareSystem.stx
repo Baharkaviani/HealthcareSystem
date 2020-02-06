@@ -1,0 +1,82 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../src/rtl/modules/oneBitFullAdder.v" in library work
+Compiling verilog file "../src/rtl/modules/FourBitAdder.v" in library work
+Module <oneBitFullAdder> compiled
+Compiling verilog file "../src/rtl/modules/FourBitMultiplier.v" in library work
+Module <FourBitAdder> compiled
+Compiling verilog file "../src/rtl/modules/EightBitAdder.v" in library work
+Module <FourBitMultiplier> compiled
+Compiling verilog file "../src/rtl/modules/comparator3bit.v" in library work
+Module <EightBitAdder> compiled
+Compiling verilog file "../src/rtl/modules/TemperatureCalculator.v" in library work
+Module <comparator3bit> compiled
+Compiling verilog file "../src/rtl/modules/TemperatureAnalyzer.v" in library work
+Module <TemperatureCalculator> compiled
+Compiling verilog file "../src/rtl/modules/PressureAnalyzer.v" in library work
+Module <TemperatureAnalyzer> compiled
+Compiling verilog file "../src/rtl/modules/ParityErrorChecker.v" in library work
+Module <PressureAnalyzer> compiled
+Compiling verilog file "../src/rtl/modules/Comparator8Bit.v" in library work
+Module <ParityErrorChecker> compiled
+Compiling verilog file "../src/rtl/modules/BloodTypeClassification.v" in library work
+Module <Comparator8Bit> compiled
+Compiling verilog file "../src/rtl/modules/BloodPHAnalyzer.v" in library work
+Module <BloodTypeClassification> compiled
+Compiling verilog file "../src/rtl/modules/TemperatureAbnormalityDetector.v" in library work
+Module <BloodPHAnalyzer> compiled
+Compiling verilog file "../src/rtl/modules/Register7Bit.v" in library work
+Module <TemperatureAbnormalityDetector> compiled
+Compiling verilog file "../src/rtl/modules/PressureAbnormalityDetector.v" in library work
+Module <Register7Bit> compiled
+Compiling verilog file "../src/rtl/modules/InformationController.v" in library work
+Module <PressureAbnormalityDetector> compiled
+Compiling verilog file "../src/rtl/modules/FallingDetector.v" in library work
+Module <InformationController> compiled
+Compiling verilog file "../src/rtl/modules/BloodAbnormalityDetector.v" in library work
+Module <FallingDetector> compiled
+Compiling verilog file "../src/rtl/modules/NervousShockDetector.v" in library work
+Module <BloodAbnormalityDetector> compiled
+Compiling verilog file "../src/rtl/modules/LogicHealthcareSystemController.v" in library work
+Module <NervousShockDetector> compiled
+Compiling verilog file "../src/rtl/modules/HealthcareSystemFirstPhase.v" in library work
+Module <LogicHealthcareSystemController> compiled
+Compiling verilog file "../src/rtl/modules/ConfigurationUnit.v" in library work
+Module <HealthcareSystemFirstPhase> compiled
+Module <ConfigurationUnit> compiled
+No errors in compilation
+Analysis of file <"BoardLogicHealthcareSystem.prj"> succeeded.
+ 
+Compiling vhdl file "D:/Bahar/Book amirkabir/logic/HW/finalProject/BoardLogicHealthcareSystem.vhd" in Library work.
+Entity <BoardLogicHealthcareSystem> compiled.
+Entity <BoardLogicHealthcareSystem> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.27 secs
+ 
+--> 
+
+Total memory usage is 4476972 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

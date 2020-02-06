@@ -1,0 +1,5 @@
+set -tmpdir "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/xst/projnav.tmp"
+set -xsthdpdir "D:/Bahar/Book amirkabir/logic/HW/finalProject/prj/xst"
+elaborate
+-ifn NervousShockDetector.prj
+-ifmt mixed
