@@ -1,0 +1,6 @@
+verilog work "../oneBitFullAdder.v"
+verilog work "../FourBitAdder.v"
+verilog work "../FourBitMultiplier.v"
+verilog work "../EightBitAdder.v"
+verilog work "../src/TemperatureCalculator.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
